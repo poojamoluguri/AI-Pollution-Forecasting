@@ -143,12 +143,8 @@ Predicted next hour PM2.5: 19.49
 
 ## 🏷️ Air Quality Levels (PM2.5)
 
-| PM2.5 (µg/m³) | Category          |
-| ------------- | ----------------- |
-| 0 – 12        | Good ✅            |
-| 12.1 – 35.4   | Moderate ⚠️       |
-| 35.5 – 55.4   | Unhealthy 🟥      |
-| 55.5+         | Very Unhealthy 🚨 |
+<img width="766" height="221" alt="image" src="https://github.com/user-attachments/assets/61e28563-66c3-479c-95c5-c23cd25cd6b7" />
+
 
 ---
 
