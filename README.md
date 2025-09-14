@@ -22,15 +22,13 @@ This project was developed as part of the **Edunet Foundation’s Green Skills w
 
 AI-Pollution-Forecasting/
 ├── data/
-│   ├── realtime\_pollution\_log.csv       # Live collected data
-│   └── historical\_pm25\_2024.csv         # Training dataset
+│   ├── realtime_pollution_log.csv       # Live collected data
+│   └── historical_pm25_2024.csv         # Training dataset
 │
 ├── src/
-│   ├── fetch\_real\_time\_data.py          # Fetch & log live data
-│   ├── train\_model.py                   # Train ML model
-│   └── predict\_future.py                # Predict next-hour PM2.5
-│
-├── models/ (optional, if you save models here)
+│   ├── fetch_real_time_data.py          # Fetch & log live data
+│   ├── train_model.py                   # Train ML model
+│   └── predict_future.py                # Predict next-hour PM2.5
 │
 ├── requirements.txt
 └── README.md
